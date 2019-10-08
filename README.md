@@ -5,8 +5,7 @@
 ## Análise de dados
 
   * ### Uma análise da educação no Brasil <br>
-    [Notebook](https://github.com/rossinendrew/Portfolio/blob/master/Endrewanalise-educacao.ipynb)
-    Neste notebook, fiz uma análise da educação no Brasil, buscando dados de diferentes fontes confiáveis. Realizei o tratamento da base de dados e a construção dos dataframes que foram necessários para a posterior análise que realizei. Utilizei Pandas, Seaborn, e Matplotlib para fazer os tratamentos e as visualizações. Utilizei GeoPandas para fazer os tratamentos e visualizações geoespaciais. 
+    Neste [notebook](https://github.com/rossinendrew/Portfolio/blob/master/Endrewanalise-educacao.ipynb), fiz uma análise da educação no Brasil, buscando dados de diferentes fontes confiáveis. Realizei o tratamento da base de dados e a construção dos dataframes que foram necessários para a posterior análise que realizei. Utilizei Pandas, Seaborn, e Matplotlib para fazer os tratamentos e as visualizações. Utilizei GeoPandas para fazer os tratamentos e visualizações geoespaciais. 
     
 ## Competições do Kaggle
 
