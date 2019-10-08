@@ -10,4 +10,5 @@
 ## Competições do Kaggle
 
   * ### IEEE-CIS Fraud Detection <br>
+    [Parte1](https://link.com) - Análise exploratória, [Parte2](https://link.com) - Modelagem<br>
     O objetivo desta competição foi prever a probabilidade de uma transação financeira online ser fraudulenta. Analisei um conjunto de dados com aproximadamente 1,1 milhão de linhas e 434 colunas. Fiz uma análise exploratória dos dados utilizando Pandas e Matplotlib. Realizei também a modelagem fazendo processamento, feature engineering, validação cruzada, feature selection, construí um modelo com o LightGBM e outro modelo com XGBoost para fazer a previsão final.
