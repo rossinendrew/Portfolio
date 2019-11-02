@@ -9,7 +9,7 @@
     
 ## Competições do Kaggle
   * ### ASHRAE - Great Energy Predictor III <br> (Em desenvolvimento)
-    O objetivo desta competição é prever quanto de energia uma construção consome. Nesta [solução](https://github.com/rossinendrew/Portfolio/blob/master/ASHRAE-Solution.ipynb) analisei um conjunto de dados com aproximadamente 62 milhões de linhas com dados coletados ao longo do tempo. Fiz uma análise exploratória dos dados utilizando Pandas, Seaborn e Matplotlib. Realizei também a modelagem fazendo processamento, feature engineering, validação cruzada e construí um modelo com o LightGBM para fazer a previsão final.
+    O objetivo desta competição é prever quanto de energia uma construção consome. Nesta solução analisei um conjunto de dados com aproximadamente 62 milhões de linhas com dados coletados ao longo do tempo. Realizei minificação e o tratamento dos dados(Será postado em breve). Fiz uma análise exploratória dos dados utilizando Pandas, Seaborn e Matplotlib(Será postada em breve). Realizei também a [modelagem](https://github.com/rossinendrew/Portfolio/blob/master/ASHRAE-Solution.ipynb) fazendo processamento, feature engineering, validação cruzada e construí um modelo com o LightGBM para fazer a previsão final.
 
   * ### IEEE-CIS Fraud Detection <br>
     [Notebook Parte1](https://github.com/rossinendrew/Portfolio/blob/master/IEEE-EDA.ipynb) - Análise exploratória, [Notebook Parte2](https://github.com/rossinendrew/Portfolio/blob/master/IEEE-Solution.ipynb) - Modelagem<br>
