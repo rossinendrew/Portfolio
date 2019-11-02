@@ -1,6 +1,6 @@
 # Portfólio
 
-  Esse portfólio é uma compilação de notebooks que criei dos meus projetos de análise de dados e de machine learning.
+  Esse portfólio é uma compilação de notebooks que criei dos meus projetos de ciência de dados, análise de dados e de machine learning.
   
 ## Análise de dados
 
